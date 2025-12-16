@@ -37,4 +37,4 @@ Actualmente estoy investigando sobre **Algoritmos heurísticos para la reducció
 - 📈 Terminar mi investigación de TFG y publicar resultados.
 - 🤝 Conectar con profesionales interesados en IA aplicada a Ingeniería.
 
-📫 **Contacto:** [Tu LinkedIn](https://www.linkedin.com/in/cristian-ortiz-vegas-8a0411381/) | [Tu Email](cortivega@gmail.com)
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/cristian-ortiz-vegas-8a0411381/) | [Email](cortivega@gmail.com)
