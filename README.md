@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # ¡Hola! Soy Cristian 👋
 
 ### 👨‍💻 Ingeniero informático en formación
